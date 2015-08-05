@@ -3,7 +3,7 @@ graf
 
 Grafika 2013 Házi feladatok
 
-A BME Számítógépes grafika és képfeldolgozás 2013 őszi kurzusára készült házi feladatok. Mindegyik el lett fogadva. Sikeresen védtem is őket. A fájlokat nem kozmetikáztam, ez a beadott verzió. (A neptun kódot kitöröltem persze.) Ha valamiért nem jó hogy ez itt kint van, és szeretnéd, hogy töröljem, írj egy emailt ide: david.szakallas[AT]gmail.com
+A BME Számítógépes grafika és képfeldolgozás 2013 őszi kurzusára készült házi feladatok. Mindegyik el lett fogadva. Sikeresen védtem is őket. A fájlokat nem kozmetikáztam, ez a beadott verzió. (A neptun kódot kitöröltem persze.) Ha valamiért nem jó hogy ez itt kint van, és szeretnéd, hogy töröljem, írj egy emailt ide: david.szakallas[AT]gmail.com. Ha viszont kifejezetten tetszik hogy ez itt van, netalántán felhasználtad a grafika házidhoz és van GitHub felhasználód, megköszönném ha adóznál egy csillaggal =). 
 
 Specifikáció
 ============
